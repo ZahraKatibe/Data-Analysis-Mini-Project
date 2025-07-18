@@ -18,5 +18,5 @@ Thumbs.db
 *.tmp
 *.bak
 
-# Ignore data (optional: فقط اگه دیتای حجیم داری که نباید تو گیت باشه)
+# Ignore data
 data/
